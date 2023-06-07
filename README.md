@@ -8,6 +8,8 @@
 
 :small_blue_diamond: [Tecnologias Utilizadas](#tecnologias-utilizadas)
 
+:small_blue_diamond: [Deploy da Aplicação](#deploy-da-aplicação)
+
 :small_blue_diamond: [Desenvolvedor](#desenvolvedor)
 
 ## Descrição do Projeto
@@ -26,6 +28,11 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </p>
 <br>
+
+
+## Deploy da Aplicação
+
+![Screenshot](https://github.com/pedrofillipes/culturama/assets/117683583/1a82d86d-c07e-437c-a458-46695c492a09)
 
 ## Desenvolvedor
 
